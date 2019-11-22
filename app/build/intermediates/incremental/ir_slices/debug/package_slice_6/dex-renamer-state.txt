@@ -1,0 +1,4 @@
+#Fri Nov 22 14:41:34 ICT 2019
+base.0=E\:\\KAMPUS\\program\\Gesture\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\6
+path.0=classes.dex
+renamed.0=classes.dex
